@@ -155,4 +155,17 @@ Analisando na perspectiva das métricas que analisamos acima:
 Outlier : ponto fora da curva
 “Um outlier é uma observação que se diferencia tanto das demais observações que levanta suspeitas de que aquela observação foi gerada por um mecanismo distinto” (Hawkins, 1980).
 
+visualisando o gráfico através de um histograma:
 
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/281d46e1-0c03-4668-96aa-6fcc0d2cb7bd">
+
+<img width="393" alt="image" src="https://github.com/user-attachments/assets/e8740e96-08e4-48c2-b3cc-80c135d40952">
+
+
+Exemplo de uma retrospectiva usando o gráfico abaixo:
+
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/a3a6322d-844a-44a0-832f-82b5d76a5d85">
+
+Vamos supor que levamos dois itens para discusão esses dois itens que levaram 14 e 41 dias. Não precisamos levar a narrativa de: pessoal está horrível o gráfico... E sim trazer uma narrativa sem julgamentos trazendo pessoal vamos discutir esse item que se destacou, e entender o que aconteceu, para tirar alguns aprendizados, geralmente podemos perguntar: O que aconteceu que levou a esse número? a gaera discuti, temos conciencia e clareza do que aconteceu, aí vem a pergunta que gera aprendizado: Se fossemos fazer esse time , como faríamos( essa pergunta é o que gera aprendizado), pode surgir as respostas-> o item não foi muito bem refinado, achamos que o item era menor e ele era bem maior do que o que planejamos,poderiamos ter parado no meio e revisto, e também nçao percebemos que estava demorando tudo isso. Podemos criar um gatinho de 85% de 13 dias, toda vez que tiver passando de 13 dias já deviamos estpa acabando. Olhar pelo o tempo de execução é a coisa mais fácil. Olhando a meta de 85% percentil podemos dizer que um item que passa pelo o fluxo pode ser entregue em até 13 dias.
+
+<img width="49" alt="image" src="https://github.com/user-attachments/assets/35b35ecd-d2c7-42a6-80e0-809da64ceaa4">
