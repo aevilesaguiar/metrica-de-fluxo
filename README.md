@@ -1,6 +1,13 @@
 # Métrica de Fluxo
 
 ## Quais são todas as métricas de fluxo possível que poder medir?  
+
+Lead Time: do ponto de compromisso (commitment point) até ficar pronto. Começamos a contar quando nos comprometemos com a demanda (replenishment) até a entrega.  
+
+ Cycle Time: é um tempo de ciclo entre quaisquer fases. Exemplo: Cycle Time de Desenvolvimento, Cycle Time de Homologação, Cycle Time de Revisão de Código. Cycle Time é avaliado entre dois pontos que escolhermos. 
+
+ Customer Lead Time: o tempo transcorrido para suprirmos uma necessidade, normalmente do cliente, pensando desde quando minimamente sabemos o que queremos até quando entregamos. A contagem do Customer Lead Time começa em Upstream, em uma coluna onde existe alguma clareza (ou suspeita) do item que decidimos implementar. 
+ 
 no Método Kanban, de David Anderson, costumamos considerar Lead Time, Cycle Time e Customer Lead Time conforme a figura abaixo: 
 
 <img width="292" alt="image" src="https://github.com/user-attachments/assets/87bcb67d-7bbe-4d1f-877e-a5580ecce315">
