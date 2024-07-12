@@ -1,6 +1,7 @@
 # Métrica de Fluxo
 
 ## Quais são todas as métricas de fluxo possível que poder medir?  
+no Método Kanban, de David Anderson, costumamos considerar Lead Time, Cycle Time e Customer Lead Time conforme a figura abaixo: 
 
 <img width="292" alt="image" src="https://github.com/user-attachments/assets/87bcb67d-7bbe-4d1f-877e-a5580ecce315">
 
@@ -33,4 +34,118 @@ A importancia de mapear tanto o dwnstream quanto o upstream é que você tem a v
 Tudo começa no upstream , onde temos várias ideias e faremos uma avaliação das ideias que foram definidas que irão para implentação e viram um produto , um desenvolvimento.
 
 Para implentar melhorias no processo precisamos ter um quadro de downstream e upstream.
+
+Committment Point: ponto de compromisso
+
+- Cicle time : é o tempo que demoramos para entregar cada processo
+
+- Throughtput(vazão): chamado de velocity. Conjunto de demandas entregues em um ciclo de tempo. Throughput. É a quantidade de vazão do sistema, ou seja, “quantas tarefas você faz por semana” ou “quantas tarefas foram entregues em um mês”. É uma métrica que mede a velocidade na qual uma certa quantidade de cards em um quadro kanban são entregues num determinado período de tempo.
+- O que é Throughput? A métrica throughput é fundamental no desenvolvimento ágil, ele mede a quantidade de itens entregues por uma equipe em um período de tempo definido
+O Throughput é uma métrica importante no desenvolvimento de software que mede a quantidade de trabalho concluído por uma equipe em um determinado período de tempo. Essa métrica é calculada contabilizando o número de user stories ou tarefas concluídas em um período específico, que pode ser semanal, quinzenal ou até mesmo uma iteração. Ela fornece uma visão clara da capacidade produtiva da equipe e ajuda a identificar se a equipe está entregando de acordo com as expectativas.
+O Throughput é uma métrica que permite às equipes monitorar sua produtividade ao longo do tempo e identificar padrões ou tendências. Por exemplo, se uma equipe está apresentando um baixo throughput consistentemente, isso pode indicar a necessidade de ajustes nos processos ou na distribuição de tarefas.
+O Throughput é aplicado de várias maneiras. Alguns exemplos de como essa métrica é utilizada:
+Acompanhamento do número de user stories ou tarefas concluídas em cada iteração;
+Análise da produtividade da equipe ao longo do tempo;
+Identificação de gargalos ou áreas de melhoria na entrega de software;
+Auxílio na definição de metas e estimativas realistas;
+Comparação do throughput entre diferentes equipes ou projetos.
+O benefício do Throughput é fornecer uma medida tangível da produtividade da equipe e permitir que a equipe e os stakeholders acompanhem o progresso do desenvolvimento de software. Ele ajuda a identificar possíveis atrasos, gargalos ou problemas de capacidade que podem afetar a entrega de software.
+
+  
+- O LeadTime: Tempo que uma demanda demora para percorrer todo o fluxo até chegar no estado de Done.
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/0e3f71eb-adfc-40e3-82de-75986839d234">
+
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/a4195b9f-5fcf-4329-801d-3c10c603a617">
+
+- O que é velocity?
+O velocity é uma métrica utilizada no desenvolvimento de software para medir a eficiência e a velocidade de uma equipe. Ele fornece uma estimativa da quantidade de trabalho que a equipe é capaz de realizar em um determinado período de tempo, geralmente medido em sprints ou iterações.
+
+Ao contrário do throughput, que mede a quantidade de trabalho concluída, o velocity é uma medida relativa e específica da equipe. Ele é calculado com base em dados históricos, como a quantidade de story points concluídos em sprints anteriores. Com base nesses dados, a equipe pode estimar sua capacidade de trabalho futura e ajustar sua carga de trabalho de acordo.
+
+Como o velocity é calculado?
+O cálculo do velocity envolve a soma dos story points concluídos pela equipe em um determinado período de tempo. Os story points são uma técnica de estimativa relativa que mede o tamanho, a complexidade e o esforço necessário para concluir uma história de usuário ou tarefa.
+
+Com base nas estimativas de story points e no histórico de conclusão, a equipe pode determinar sua velocidade média por sprint ou iteração. Isso proporciona uma visão clara da capacidade da equipe e ajuda a estabelecer expectativas realistas em relação ao trabalho que pode ser concluído em cada ciclo de desenvolvimento.
+
+Aplicação do velocity no desenvolvimento de software
+O velocity é uma métrica amplamente utilizada em metodologias ágeis, como o Scrum, para auxiliar no planejamento e gerenciamento do trabalho. Com base no velocity da equipe, é possível estabelecer metas de entrega e priorizar as tarefas de acordo com a capacidade da equipe.
+
+Além disso, o velocity também é útil para monitorar o progresso do projeto e identificar possíveis gargalos ou áreas de melhoria. Se a equipe estiver consistentemente abaixo do velocity esperado, isso pode indicar que há obstáculos ou problemas que precisam ser resolvidos.
+
+Diferenças entre throughput e velocity
+Ao comparar as métricas de Throughput e Velocity, é importante entender suas diferenças e como elas são aplicadas no desenvolvimento de software.
+
+Comparação dos cálculos e métodos de medição
+O cálculo do throughput envolve a contagem do número de histórias de usuário ou tarefas que a equipe de desenvolvimento conclui durante um período de tempo específico, geralmente semanal ou por iteração. Já o velocity é calculado com base em dados históricos, normalmente levando em consideração as últimas iterações ou sprints. Essa diferença nos métodos de medição reflete abordagens distintas para avaliar o desempenho da equipe.
+
+Foco e objetivo de cada métrica
+O throughput tem como foco principal monitorar a produtividade da equipe de desenvolvimento, permitindo que ela acompanhe o progresso do trabalho e identifique gargalos ou áreas de melhoria. Por outro lado, o velocity é uma métrica relativa que ajuda as equipes a estimar seu desempenho futuro e ajustar sua carga de trabalho de acordo. Ele fornece insights sobre a capacidade da equipe de entregar valor de forma consistente ao longo do tempo.
+
+Como as métricas refletem o desempenho da equipe de desenvolvimento
+O throughput reflete a capacidade da equipe de concluir histórias de usuário ou tarefas dentro de um determinado período. Ele fornece uma visão direta da produtividade e eficiência da equipe. Já o velocity reflete o ritmo de entrega da equipe com base em dados históricos. Ele ajuda as equipes a entender sua capacidade de realizar entregas consistentes e aprimorar suas estimativas.
+
+- CFD - Cumulative Flow Diagram: usado para entender o cenário do seu fluxo, se tem gargalo, onde não tem.
+Se está melhorando ou piorando, se está ganhando performance.
+
+Como podemos visualizar essas métricas no fluxo?
+
+- Throughput: medido por tudo que foi entregue
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/e480c929-cfa1-41fc-add1-e8c165c8cc2b">
+
+- System leadtime: vai ser medido entre o ponto de compromisso, onde de fato eu comecei a fazer , até que eu entreguei
+
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/6c7c21e4-622e-4e87-9e76-7a3bc1b1de20">
+
+- wip: quantidade de trabalho em progresso
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/dbcc9a1e-10ff-41d9-bdec-c4b0c2899a81">
+- Aging wip: idade dos itens, quanto tempo estão em execução. É muito importante avaliar o aging para entender o tempo e analisar os gasgalos, as vezes temos histórias grandes,
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/4c55f125-f200-43c7-8401-807b4c76fe93">
+
+
+## Dados insigths miro
+
+https://miro.com/app/board/o9J_lu_2CUM=/
+
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/e3a516b0-5d86-4c42-910f-024dbb74407d">
+
+
+## Entendendo Métricas
+
+Falando de métricas nós temos um delay, se avaliarmos lead time througthput nós estamos olhando o passado para projetar o futuro. 
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/172ffb3c-5519-4d31-a660-70234863495f">
+
+Nós temos uma variável acionável, que são o que está ocorrendo no presente. E as métricas que podemos tomar mais decisões são: 
+- wip
+- Aging WIP
+
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/b79abead-7c87-4b07-a2d8-d64c45708056">
+
+Quando está iniciando o trabalho não o limite, para ter mais visibilidade, depois disso podemos limitar.
+A métrica mais acionável é o aging wip, pois olhando o tempo de cada item, podemos olhar de uma maneira diferente, para entender os gargalos. WIP Agind é fácil de aplicar mostramos um número e com base nisso geramos um gatilho de como agir e atuar.
+
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/a595a68b-95cb-4881-94a1-cb59338dd6a6">
+
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/f57f7e7b-482d-4101-a746-37ad53587ca7">
+
+WIP AGING : É uma métrica do que está em progresso.  Quanto tempo esse item está em progresso
+Customer leadtime: olha pela perspectiva da entrega. Quanto tempo algo que entreguei demorou para eu entregar desde uando o cliente fez o pedido.
+
+## Analisando um cenário
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/b68b5a52-a80b-46c0-961d-f209ec929dbc">
+
+Analisando na perspectiva das métricas que analisamos acima:
+
+- Throughput vazão , geralmente recomenda que se analise o gráfico de 8 a 12 semanas, para que você não olhe um gráfico muito recente, mas que também não olhe um dado muito antigo. Senão sua avaliação não faz sentindo, pois as equipes mudam, os projetos mudam, a informação não é verdadeira.
+  Podemos verificar que o time entregou mais com o passar do tempo, e a tendencia é subor. Ou seja aumentou a vazão, mas é necessário avaliar os motivos por esse aumento.Pode ser que no início do projeto o refinamento não era tão bem feito, as estórias não estavam tão quebradas. Não quer dizer dizer que estou mais ou menos produtivo. nas ultimas semanas houve uma consistencia. Mas é importante avaliar. Temos que ter uma performance estável, equilibrar a demanda
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/eaeb6063-c95e-490d-80b2-a064bfcaea6d">
+
+- System Leadtime : cada bolinha é uma entrega. Se analisarmos as últimas 4 semanas, use a meta 85% e veja tudo que está acima. se olharmos o passado havia uma variação maior . Quando diminuimos essa variação percebemos que os itens foram melhor detalhado, que as definition of ready foram 
+
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/7f64df9e-118c-4315-ab47-a2c2a276d085">
+
+Outlier : ponto fora da curva
+“Um outlier é uma observação que se diferencia tanto das demais observações que levanta suspeitas de que aquela observação foi gerada por um mecanismo distinto” (Hawkins, 1980).
+
 
