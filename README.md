@@ -1,6 +1,6 @@
 # Métrica de Fluxo
 
-## Quais são todas as métricas de fluxo possível que poder medir?
+## Quais são todas as métricas de fluxo possível que poder medir?  
 
 <img width="292" alt="image" src="https://github.com/user-attachments/assets/87bcb67d-7bbe-4d1f-877e-a5580ecce315">
 
