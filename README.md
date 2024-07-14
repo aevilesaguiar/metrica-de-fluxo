@@ -196,4 +196,15 @@ Nós temos as métricas do passado, futuro e do presente:
 
 <img width="359" alt="image" src="https://github.com/user-attachments/assets/f09316f9-084f-4b2b-b490-cef558710d25">
 
-temos uma planilha do try magness
+temos uma planilha do troy magness:
+
+https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Team%20Dashboard%20v5.xlsx
+
+Podemos usar o actionable agile é uma ferramenta paga;
+
+temos o getnave que ajuda a analisar os dashboards pré-configurados;
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/5025af7b-bc87-4e16-a865-02f120b16409">
+
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/e07d00c9-342d-433b-af98-df0b2f8756e5">
+
