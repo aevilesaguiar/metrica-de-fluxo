@@ -208,3 +208,4 @@ temos o getnave que ajuda a analisar os dashboards pré-configurados;
 
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/e07d00c9-342d-433b-af98-df0b2f8756e5">
 
+## Quando fica Pronto?
