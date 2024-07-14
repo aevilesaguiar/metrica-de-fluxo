@@ -169,3 +169,31 @@ Exemplo de uma retrospectiva usando o gráfico abaixo:
 Vamos supor que levamos dois itens para discusão esses dois itens que levaram 14 e 41 dias. Não precisamos levar a narrativa de: pessoal está horrível o gráfico... E sim trazer uma narrativa sem julgamentos trazendo pessoal vamos discutir esse item que se destacou, e entender o que aconteceu, para tirar alguns aprendizados, geralmente podemos perguntar: O que aconteceu que levou a esse número? a gaera discuti, temos conciencia e clareza do que aconteceu, aí vem a pergunta que gera aprendizado: Se fossemos fazer esse time , como faríamos( essa pergunta é o que gera aprendizado), pode surgir as respostas-> o item não foi muito bem refinado, achamos que o item era menor e ele era bem maior do que o que planejamos,poderiamos ter parado no meio e revisto, e também nçao percebemos que estava demorando tudo isso. Podemos criar um gatinho de 85% de 13 dias, toda vez que tiver passando de 13 dias já deviamos estpa acabando. Olhar pelo o tempo de execução é a coisa mais fácil. Olhando a meta de 85% percentil podemos dizer que um item que passa pelo o fluxo pode ser entregue em até 13 dias.
 
 <img width="49" alt="image" src="https://github.com/user-attachments/assets/35b35ecd-d2c7-42a6-80e0-809da64ceaa4">
+
+
+## segunda parte
+
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/7c7ecad7-461b-45b2-ad7f-e8cafc28d3cf">
+
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/c092496a-9350-48a5-8e36-9f12737e192b">
+
+Precisamos responder essas perguntas?
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/2f4ad423-7359-4e74-a4a4-cf25049fcdb6">
+
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/76ce55e0-32f4-4cf5-a350-68ce883f1d02">
+
+Nós temos as métricas do passado, futuro e do presente:
+
+- Aging wip, métrica do presente(tudo que está acontecendo, bloqueio , dependencias e tudo mais)
+- 
+  <img width="423" alt="image" src="https://github.com/user-attachments/assets/db9a2496-796f-412c-a46b-18aee3aaab63">
+
+-  lead time, troughput e suas variações - metrica do passado(métrica do passado ajuda a prever o futuro)
+- Métrica do futuro é tudo que vai acontencer, tudo que está no backlog, o que vai priorizar
+  
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/f6284af0-b6f4-4b3e-8618-279bf0652d73">
+
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/f09316f9-084f-4b2b-b490-cef558710d25">
+
+temos uma planilha do try magness
