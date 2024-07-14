@@ -209,3 +209,52 @@ temos o getnave que ajuda a analisar os dashboards pré-configurados;
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/e07d00c9-342d-433b-af98-df0b2f8756e5">
 
 ## Quando fica Pronto?
+
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/dc295930-4406-4ce5-ba4d-91e5779c22a0">
+
+Qual a perspectiva criar um evento, perspectiva financeira, analise se o produto é viável ou não.
+
+Entenda por que você está sendo pergunta quando ficará pronto, pois é necessário responder de forma madura, identificar riscos.
+
+Um livro indicado para apoiar: User Storie map(descobrir a história por meio da narrativa)
+
+Qual métricas de fluxo devo usar para responder quando ficar pronto?
+- throughput
+- velocity(olhando para uma pontuação)
+- montecarlo
+
+
+leadtime serve para olhar para um tipo de item, defeito que vem do cliente, ele pode dar uma resposta para você ter um prazo.
+
+
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/f2dc8969-2710-499f-990e-bb0711a3153b">
+
+A previsão será feita com base no passado
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/a8de5b72-f861-4fc2-b29a-30a188a72f49">
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/5c2939e0-7194-4704-bd22-e5cb6a1719f7">
+
+quando vamos planejar uma entrega pensar de forma probabilistica , não é certeza, previsão, pode acontecer diferente. Ou seja queremos saber o nível de risco que estamos correndo. 
+
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/1ec95eae-6dcc-4978-9e20-820740bb87c1">
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/6142ecf3-feca-47a0-907e-98741105b78a">
+
+A equipe A ela tem uma menor consistencia, tem maior variação.
+A equipe B é mais consistente .
+
+Mas é importante analisar o througput por tipo de demanda(Equipe B)
+
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/80e155a7-e777-4cf8-9ee2-0d1a3cc3c868">
+
+
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/be2f550d-d1cf-4b6c-a5ad-24e937f34fdd">
+
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/8e194513-1c10-43fc-a07c-5ae729515c91">
+
+média de 3/semana-> entrega em aproximadamente 1o semanas
+
+melhor cenário: 4/semana -> 8 semanas
+
+pior cenario: 2/semana -> 15 semanas
