@@ -258,3 +258,53 @@ média de 3/semana-> entrega em aproximadamente 1o semanas
 melhor cenário: 4/semana -> 8 semanas
 
 pior cenario: 2/semana -> 15 semanas
+
+
+Usando o chat GPT:
+
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/2d10a11a-6469-447e-937a-dd540a041418">
+
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/08f0139d-f086-4e5a-9c15-24abb4f44db2">
+
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/02159f65-44af-4f11-bc62-4f1d6c62bed0">
+
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/6b16b05d-f313-4296-a4af-433ec5dcad25">
+
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/95eb4da8-80f1-47fa-af22-50b7d739edd1">
+
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/0d885612-8bc0-4172-943b-824b575acf7c">
+
+<img width="334" alt="image" src="https://github.com/user-attachments/assets/ffb8bf88-c7c5-474f-bcf4-0605b175fc45">
+
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/49b43c42-a175-49f4-b408-14cd7166e192">
+
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/d58e4eb4-950e-485c-a456-36eb21102ad3">
+
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/d649d41b-bc91-4bd1-b60d-c995e4e89fab">
+
+eLE ERROU A PREVISõ:
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/d3b33f74-2f5a-42ee-82cf-feefadc3bdf2">
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/af0de6f2-26c8-4b60-b03d-48d8c459ebd3">
+
+
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/2a326017-f153-476f-93a5-1bdfdfb927bb">
+
+
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/43ee4bcf-13c7-4f82-bcef-779ee4d530aa">
+
+
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/b71f8587-7875-41ff-bcdf-5c125a4d0f56">
+
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/27198423-7bb4-4de5-bf24-10044a990fcb">
+
+
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/2a5535be-357c-4bf1-a0a3-6b141e85968c">
+
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/c2aa9899-1dea-47c2-bb33-79566eb3d1b2">
+
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/8b341622-4aea-4c06-a1e2-cc8863287c8f">
+
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/95d41c81-c1bf-410f-bf20-d89c1f2f67c8">
+
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/0a8d5fad-5b52-4c35-87ff-3b01877d035c">
